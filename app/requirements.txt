@@ -1,0 +1,3 @@
+requests
+redis
+prometheus_client
